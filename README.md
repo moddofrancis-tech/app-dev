@@ -2,7 +2,6 @@
 My first repository
 # My Favorite Series: The Seven Deadly Sins
 
-![Human](sins.jpg)
 
 ## Overview
 **The Seven Deadly Sins** (*Nanatsu no Taizai*) is a fantasy anime based on the manga by
