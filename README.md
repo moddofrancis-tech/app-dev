@@ -2,7 +2,7 @@
 My first repository
 # My Favorite Series: The Seven Deadly Sins
 
-![Series banner](https://en.wikipedia.org/wiki/List_of_The_Seven_Deadly_Sins_characters#/media/File:Seven_Deadly_Sins_Characters.jpg)
+![Series banner](https://en.wikipedia.org/wiki/List_of_The_Seven_Deadly_Sins_characters#/media/File:sins.jpg)
 
 ## Overview
 **The Seven Deadly Sins** (*Nanatsu no Taizai*) is a fantasy anime based on the manga by
